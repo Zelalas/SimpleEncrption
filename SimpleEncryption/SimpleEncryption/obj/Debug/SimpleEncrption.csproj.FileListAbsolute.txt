@@ -1,0 +1,4 @@
+C:\Users\Zelalas\Documents\GitHub\SimpleEncrption\SimpleEncryption\SimpleEncryption\bin\Debug\SimpleEncryption.exe.config
+C:\Users\Zelalas\Documents\GitHub\SimpleEncrption\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.exe
+C:\Users\Zelalas\Documents\GitHub\SimpleEncrption\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.pdb
+C:\Users\Zelalas\Documents\GitHub\SimpleEncrption\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncrption.csprojResolveAssemblyReference.cache

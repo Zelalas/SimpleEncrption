@@ -1,0 +1,6 @@
+c:\users\zelalas\documents\visual studio 2012\Projects\SimpleEncryption\SimpleEncryption\bin\Debug\SimpleEncryption.exe.config
+C:\Users\Zelalas\Documents\Visual Studio 2012\Projects\SimpleEncryption\SimpleEncryption\bin\Debug\SimpleEncryption.exe
+C:\Users\Zelalas\Documents\Visual Studio 2012\Projects\SimpleEncryption\SimpleEncryption\bin\Debug\SimpleEncryption.pdb
+C:\Users\Zelalas\Documents\Visual Studio 2012\Projects\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.csprojResolveAssemblyReference.cache
+C:\Users\Zelalas\Documents\Visual Studio 2012\Projects\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.exe
+C:\Users\Zelalas\Documents\Visual Studio 2012\Projects\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.pdb
